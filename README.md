@@ -9,15 +9,13 @@ A responsive **Countries Explorer** built with **HTML, CSS, and JavaScript**. Th
 
 ## 🔗 Live Demo
 
-**Live Demo:** Netlify URL here after deployment.
+**Live Demo:** Netlify URL.
 
 Example:
 
 `(https://countries-explorer-mohd.netlify.app/)`
 
 ## 📸 Screenshots
-
-Add your screenshots to the `screenshots/` folder and use the following images in this section.
 
 ### Home Page
 
@@ -26,8 +24,6 @@ Add your screenshots to the `screenshots/` folder and use the following images i
 ### Country Details
 
 ![Country Details](screenshots/country-details.png)
-
-> **How to add screenshots:** Open the project in your browser, take screenshots of the home page and a country-details page, save them as `home.png` and `country-details.png`, and put them inside the `screenshots` folder.
 
 ## ✨ Features
 
