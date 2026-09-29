@@ -195,7 +195,7 @@ Make sure `index.html` is at the repository root (or at the root of the selected
 
 ## 👨‍💻 Author
 
-**Mohd Anas**
+**Mohd Mugeesh Siddiqui**
 
 Frontend Developer | JavaScript | DSA with Java
 
