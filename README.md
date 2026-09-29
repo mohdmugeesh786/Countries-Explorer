@@ -13,7 +13,7 @@ A responsive **Countries Explorer** built with **HTML, CSS, and JavaScript**. Th
 
 Example:
 
-`https://your-username.github.io/countries-explorer/`
+`(https://countries-explorer-mohd.netlify.app/)`
 
 ## 📸 Screenshots
 
