@@ -9,7 +9,7 @@ A responsive **Countries Explorer** built with **HTML, CSS, and JavaScript**. Th
 
 ## 🔗 Live Demo
 
-**Live Demo:** Add your GitHub Pages or Netlify URL here after deployment.
+**Live Demo:** Netlify URL here after deployment.
 
 Example:
 
